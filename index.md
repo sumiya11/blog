@@ -1,8 +1,8 @@
-@def title = "Generic Blog"
+@def title = "Relax, but don't be too lazy"
 @def hasmath = true
 @def hascode = true
 
 
-# Generic Blog Title
+# Relax, but don't be too lazy
 
-[Generic Post](posts/post1)
+[Hello world!](posts/post1)

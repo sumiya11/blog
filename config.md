@@ -1,7 +1,7 @@
 @def author = "Alexander Demin"
 
-@def website_title = "Generic Blog"
-@def website_descr = "Generic Blog Descr"
+@def website_title = "Relax, but don't be too lazy"
+@def website_descr = "Descr"
 
 @def website_url = "sumiya11.github.io/"
 @def prepath = "blog"
