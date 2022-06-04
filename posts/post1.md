@@ -1,4 +1,4 @@
-@def title = "Franklin Sandbox"
+@def title = "Post 1"
 @def hasmath = true
 @def hascode = true
 
