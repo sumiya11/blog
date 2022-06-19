@@ -1,10 +1,12 @@
-@def title = "Alexander Demin Blog"
+@def title = "Blog by Alexander Demin"
 @def hasmath = true
 @def hascode = true
 
-## Blog by [Alexander Demin](sumiya11.github.io)
+## Blog by Alexander Demin
 
 > Relax, but don't be too lazy
+
+Hey, this is my blog; my personal page is [here](sumiya11.github.io).
 
 ### Posts
 
