@@ -1,10 +1,10 @@
-@def title = "Relax, but don't be too lazy"
+@def title = "Alexander Demin Blog"
 @def hasmath = true
 @def hascode = true
 
-# Blog!
+## Blog by [Alexander Demin](sumiya11.github.io)
 
-### Relax, but don't be too lazy
+> Relax, but don't be too lazy
 
 ### Posts
 
@@ -16,4 +16,4 @@
 
 - **15 June, 2022**, Our paper *F5: A REDUCE Package for Signature-based Gröbner Basis Computation* has been accepted to CASC 22 !
 
-- **6 June, 2022**, My talk *Groebner.jl - fast Groebner bases in Julia* was accepted to this year JuliaCon conference!
+- **6 June, 2022**, I will be giving the talk *Groebner.jl - fast Groebner bases in Julia* at this year JuliaCon conference!
