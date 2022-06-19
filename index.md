@@ -6,7 +6,7 @@
 
 > Relax, but don't be too lazy
 
-Hey, this is my blog; my personal page is [here](sumiya11.github.io).
+Hey, this is my blog; my personal page is [here](https://sumiya11.github.io/).
 
 ### Posts
 
